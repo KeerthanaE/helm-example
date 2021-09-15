@@ -6,7 +6,7 @@ entries:
     created: "2021-09-15T16:38:51.161819717+05:30"
     description: A Helm chart for Kubernetes
     digest: 977475f1823018ca18498ba6d080bca61aa8aa6bd1268780a73dd34723322a5f
-    name: social-distancing-retail
+    name: social-distancing-retail-0.1.1
     type: application
     urls:
     - https://raw.githubusercontent.com/KeerthanaE/helm-example/main/social-distancing-retail-0.1.1.tgz
