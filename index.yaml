@@ -9,6 +9,6 @@ entries:
     name: social-distancing-retail
     type: application
     urls:
-    - https://github.com/KeerthanaE/helm-example/social-distancing-retail-0.1.1.tgz
+    - https://raw.githubusercontent.com/KeerthanaE/helm-example/main/social-distancing-retail-0.1.1.tgz
     version: 0.1.1
 generated: "2021-09-15T16:38:51.156904617+05:30"
