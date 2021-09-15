@@ -3,12 +3,12 @@ entries:
   social-distancing-retail:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-09-15T18:28:11.87300078+05:30"
+    created: "2021-09-15T18:35:22.56449159+05:30"
     description: A Helm chart for Kubernetes
     digest: 5a28f72217a0f60999cb8fbee71f6143cd1b3170f0e488ccecf5f56d2c731d04
     name: social-distancing-retail
     type: application
     urls:
-    - https://github.com/KeerthanaE/helm-example/main/social-distancing-retail-0.1.0.tgz
+    - https://raw.githubusercontent.com/KeerthanaE/helm-example/main/social-distancing-retail-0.1.0.tgz
     version: 0.1.0
-generated: "2021-09-15T18:28:11.871148254+05:30"
+generated: "2021-09-15T18:35:22.561992892+05:30"
