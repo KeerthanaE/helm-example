@@ -3,12 +3,12 @@ entries:
   icr:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-09-28T17:15:56.059818897+05:30"
+    created: "2021-09-28T17:24:46.243183078+05:30"
     description: A Helm chart for Kubernetes
-    digest: 6a523e41157f2bd369dd29d2be51fc6a8307cf6b8c6df14e33a6abb4254cce7f
+    digest: 672f7db9f5dd7e732aad348756f2e2abe1aff9c06dab6969e836abbac85f8f33
     name: icr
     type: application
     urls:
     - https://raw.githubusercontent.com/KeerthanaE/helm-example/main/icr-0.1.0.tgz
     version: 0.1.0
-generated: "2021-09-28T17:15:56.058690106+05:30"
+generated: "2021-09-28T17:24:46.242069528+05:30"
